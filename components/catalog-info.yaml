@@ -19,7 +19,6 @@ metadata:
 #    key1: value1
   tags:
     - trobbins
-    - tyler_owns
 spec:
   type: service
   owner: TeamA
