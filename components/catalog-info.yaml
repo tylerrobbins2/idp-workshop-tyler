@@ -18,7 +18,7 @@ metadata:
 #  labels:
 #    key1: value1
   tags:
-    - trobbins, testtag
+    - trobbins; testtag
 spec:
   type: service
   owner: TeamA
